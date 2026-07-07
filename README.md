@@ -187,10 +187,6 @@ Também conta com componentes reutilizáveis, como:
 
 ## Controle de Versão
 
-Durante o desenvolvimento do projeto foi utilizado o Git para controle de versões e o GitHub para armazenamento e compartilhamento do código-fonte, mantendo um histórico de commits com mensagens descritivas.
+Durante o desenvolvimento do projeto foi utilizado o GitHub para armazenamento e compartilhamento do código-fonte, mantendo um histórico de commits com mensagens descritivas.
 
 ---
-
-## Licença
-
-Projeto desenvolvido exclusivamente para fins acadêmicos na disciplina de Programação Orientada a Objetos.
