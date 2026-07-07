@@ -1,0 +1,5 @@
+id,id_reserva,valor,metodo,data_pagamento
+1,1,1100,Pix,2026-07-05
+2,2,3120,Cartão,2026-07-12
+3,3,3250,Boleto,2026-07-28
+4,1,1100,Pix,2026-07-06

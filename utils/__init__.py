@@ -1,0 +1,4 @@
+"""
+Arquivo criado automaticamente.
+"""
+

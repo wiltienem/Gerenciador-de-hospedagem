@@ -1,0 +1,11 @@
+id,nome,bairro,cidade,tipo,preco,avaliacao,quartos,banheiros,hospedes_max,latitude,longitude
+1,Apartamento Luxo Centro,Centro,Florianópolis,Apartamento,350,4.8,2,1,4,-27.5949,-48.5482
+2,Casa Praia Ingleses,Ingleses,Florianópolis,Casa,650,4.9,3,2,8,-27.4376,-48.3966
+3,Studio Trindade,Trindade,Florianópolis,Studio,220,4.7,1,1,2,-27.6000,-48.5200
+4,Cobertura Beira Mar,Centro,Florianópolis,Cobertura,950,5.0,4,3,10,-27.5920,-48.5470
+5,Loft Moderno,Centro,Florianópolis,Loft,280,4.6,1,1,2,-27.5955,-48.5490
+6,Casa Lagoa,Lagoa da Conceição,Florianópolis,Casa,780,4.9,3,2,7,-27.6040,-48.4560
+7,Apartamento Família,Coqueiros,Florianópolis,Apartamento,420,4.5,3,2,6,-27.6015,-48.5660
+8,Studio Econômico,Trindade,Florianópolis,Studio,180,4.3,1,1,2,-27.5990,-48.5210
+9,Casa Campeche,Campeche,Florianópolis,Casa,550,4.8,3,2,6,-27.6795,-48.4880
+10,Apartamento Premium,Centro,Florianópolis,Apartamento,480,4.9,2,2,5,-27.5930,-48.5450
